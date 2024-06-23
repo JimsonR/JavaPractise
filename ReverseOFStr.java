@@ -1,6 +1,6 @@
 public class ReverseOFStr {
 public static void main(String[] args) {
-    String s = "malayalams";
+    String s = "malayalam";
     String rev = "";
     int n = s.length();
     for(int i = 0; i < n; i++){
